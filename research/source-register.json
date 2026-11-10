@@ -1,0 +1,386 @@
+{
+  "generated_on": "2026-11-09",
+  "purpose": "Inventory only; never a clinical approval or launch decision.",
+  "required_current_editions": [
+    "AHA 2025",
+    "ERC 2025",
+    "IFRC 2025",
+    "Indian 2017"
+  ],
+  "who_approves": "Qualified clinician adjudicates clinical conflicts; qualified language reviewers approve translations.",
+  "records": [
+    {
+      "filename": "01-cardiac-arrest.md",
+      "heading": "Cardiac arrest: unresponsive and not breathing normally (`cardiac-arrest`)",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": null,
+      "reference_count": 6,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 1,
+      "title": "Cardiac arrest"
+    },
+    {
+      "filename": "02-heart-attack.md",
+      "heading": "Suspected heart attack \u2014 draft research note",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": null,
+      "reference_count": 4,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 2,
+      "title": "Suspected heart attack"
+    },
+    {
+      "filename": "03-stroke.md",
+      "heading": "Stroke signs \u2014 draft research note",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": null,
+      "reference_count": 4,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 3,
+      "title": "Stroke signs"
+    },
+    {
+      "filename": "04-choking.md",
+      "heading": "Choking \u2014 draft research note",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": null,
+      "reference_count": 5,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 4,
+      "title": "Choking"
+    },
+    {
+      "filename": "05-severe-bleeding.md",
+      "heading": "Severe or uncontrolled bleeding (`severe-bleeding`)",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": null,
+      "reference_count": 4,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 5,
+      "title": "Severe or uncontrolled bleeding"
+    },
+    {
+      "filename": "06-unconscious-breathing.md",
+      "heading": "Unconscious but breathing \u2014 draft research note",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": "2026-11-07",
+      "reference_count": 4,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 6,
+      "title": "Unconscious but breathing"
+    },
+    {
+      "filename": "07-seizure.md",
+      "heading": "Draft research note: Seizure (including fever-related seizure in children)",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": null,
+      "reference_count": 4,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 7,
+      "title": "Seizure"
+    },
+    {
+      "filename": "08-severe-allergy.md",
+      "heading": "Draft research note \u2014 Severe allergic reaction (severe-allergy)",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": null,
+      "reference_count": 5,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 8,
+      "title": "Severe allergic reaction"
+    },
+    {
+      "filename": "09-burns.md",
+      "heading": "Burns (id: burns) \u2014 draft research note",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": null,
+      "reference_count": 5,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 9,
+      "title": "Burns"
+    },
+    {
+      "filename": "10-drowning.md",
+      "heading": "Drowning or submersion injury \u2014 draft evidence note",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": "2026-11-08",
+      "reference_count": 6,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 10,
+      "title": "Drowning or submersion injury"
+    },
+    {
+      "filename": "11-poisoning-overdose.md",
+      "heading": "Topic 11 \u2014 Poisoning or overdose, including pesticide poisoning",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": null,
+      "reference_count": 7,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 11,
+      "title": "Poisoning or overdose"
+    },
+    {
+      "filename": "12-snakebite.md",
+      "heading": "12 \u2014 Snakebite: draft evidence note",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": "2026-11-08",
+      "reference_count": 4,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 12,
+      "title": "Snakebite"
+    },
+    {
+      "filename": "13-electric-shock.md",
+      "heading": "Electric shock \u2014 draft evidence note",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": "2026-11-08",
+      "reference_count": 5,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 13,
+      "title": "Electric shock"
+    },
+    {
+      "filename": "14-fractures-spine-injury.md",
+      "heading": "Fractures and head, neck, or spine injury \u2014 draft evidence note",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": "2026-11-08",
+      "reference_count": 5,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 14,
+      "title": "Fractures and head, neck, or spine injury"
+    },
+    {
+      "filename": "15-road-traffic-accident.md",
+      "heading": "Road traffic accident / multiple trauma \u2014 draft evidence note",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": null,
+      "reference_count": 4,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 15,
+      "title": "Road traffic accident"
+    },
+    {
+      "filename": "16-severe-asthma.md",
+      "heading": "Severe asthma or breathing difficulty \u2014 draft evidence note",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": null,
+      "reference_count": 3,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 16,
+      "title": "Severe asthma or breathing difficulty"
+    },
+    {
+      "filename": "17-low-blood-sugar.md",
+      "heading": "Draft evidence note: Low blood sugar in a person with diabetes",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": null,
+      "reference_count": 4,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 17,
+      "title": "Low blood sugar in diabetes"
+    },
+    {
+      "filename": "18-heat-stroke.md",
+      "heading": "Heat stroke and heat illness \u2014 draft evidence note",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": "2026-11-09",
+      "reference_count": 7,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 18,
+      "title": "Heat stroke"
+    },
+    {
+      "filename": "19-severe-dehydration-children.md",
+      "heading": "Severe dehydration in children \u2014 draft evidence note",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": "2026-11-09",
+      "reference_count": 7,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 19,
+      "title": "Severe dehydration in children"
+    },
+    {
+      "filename": "20-pregnancy-childbirth.md",
+      "heading": "Pregnancy and childbirth emergencies \u2014 draft evidence note",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": "2026-11-09",
+      "reference_count": 7,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 20,
+      "title": "Pregnancy and childbirth emergencies"
+    },
+    {
+      "filename": "21-eye-exposure.md",
+      "heading": "LifeSafe evidence note \u2014 chemical exposure to the eye",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": null,
+      "reference_count": 4,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 21,
+      "title": "Chemical exposure or foreign object in the eye"
+    },
+    {
+      "filename": "22-fire-smoke.md",
+      "heading": "LifeSafe evidence note 22: Fire or smoke exposure",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": "2026-11-09",
+      "reference_count": 6,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 22,
+      "title": "Fire or smoke exposure"
+    },
+    {
+      "filename": "23-self-harm.md",
+      "heading": "Draft research evidence note: suicidal thoughts or self-harm with crisis-support pathway",
+      "exists": true,
+      "status": "DRAFT_UNVERIFIED",
+      "access_date": null,
+      "reference_count": 5,
+      "required_edition_markers_found": [],
+      "warnings": [
+        "draft/research-only language present",
+        "no positive clinical approval evidence",
+        "specified current-edition markers not found"
+      ],
+      "topic": 23,
+      "title": "Suicidal thoughts or self-harm"
+    }
+  ],
+  "summary": {
+    "draft_notes": 23,
+    "missing_notes": 0,
+    "clinically_verified_notes": 0
+  }
+}
